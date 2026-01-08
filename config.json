@@ -59,5 +59,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "file-io-and-exceptions",
+      "title": "File I/O and Exceptions",
+      "description": "Practice reading/writing files and handling errors in Python.",
+      "path": "assignments/file-io-and-exceptions",
+      "dueDate": "2026-01-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
